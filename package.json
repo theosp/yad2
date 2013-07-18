@@ -1,0 +1,22 @@
+{
+    "name": "yad2",
+    "main": "./lib/yad2.js",
+    "version": "0.0.1",
+    "description": "",
+    "homepage": "",
+    "repository": {
+        "type": "git",
+        "url": "git://"
+    },
+    "dependencies": {
+        "iconv": "2.x.x"
+    },
+    "author": {
+        "name": "Daniel Chcouri",
+        "email": "333222@gmail.com"
+    },
+    "engines": {
+        "node": ">=0.10.0"
+    },
+    "readmeFilename": "README.md"
+}
