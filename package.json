@@ -9,7 +9,8 @@
         "url": "git://"
     },
     "dependencies": {
-        "iconv": "2.x.x"
+        "iconv": "2.x.x",
+        "jsdom": "0.7.x"
     },
     "author": {
         "name": "Daniel Chcouri",
